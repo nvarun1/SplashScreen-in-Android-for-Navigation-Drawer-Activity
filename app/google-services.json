@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1082415037546",
+    "firebase_url": "https://letsvote-7390a.firebaseio.com",
+    "project_id": "letsvote-7390a",
+    "storage_bucket": "letsvote-7390a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082415037546:android:d05d69cd727884d6",
+        "android_client_info": {
+          "package_name": "com.example.letsvote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082415037546-p36lq8nksc8avfuasr0f55t6pion9vt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letsvote",
+            "certificate_hash": "186aeafa676acde9a4e9c866c68a2e1a1486478c"
+          }
+        },
+        {
+          "client_id": "1082415037546-s6agv5dqkgj1frvmd4j19uthta0l5kbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfgjBUtCYwDggXNKpjGgwyVHYDgdKYeK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082415037546-s6agv5dqkgj1frvmd4j19uthta0l5kbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
